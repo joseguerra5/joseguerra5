@@ -21,7 +21,7 @@ I am excited to apply my knowledge in practical projects and contribute to the d
 }
 
 📈 GitHub Stats
-<p align="center"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joseguerra5&show_icons=true&hide_border=true&theme=radical" /> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&hide_border=true&theme=radical" /> </p>
+<p align="center"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joseguerra5&show_icons=true&hide_border=true&theme=radical" /> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joseguerra5&layout=compact&hide_border=true&theme=radical" /> </p>
 
 🌱 What I'm Currently Learning
 
