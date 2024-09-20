@@ -14,10 +14,10 @@ I am excited to apply my knowledge in practical projects and contribute to the d
 
 {
   "Front-End": ["HTML", "CSS", "JavaScript", "React"],
-  "Back-End": ["Node.js", "Express.js"],
-  "Databases": ["MySQL", "MongoDB"],
-  "Tools": ["Git", "Docker", "Postman"],
-  "Currently Learning": ["TypeScript", "GraphQL"]
+  "Back-End": ["Node.js"],
+  "Databases": ["MySQL"],
+  "Tools": ["Git"],
+  "Currently Learning": ["TypeScript", "React"]
 }
 
 📈 GitHub Stats
